@@ -1,4 +1,5 @@
+tests/BaseTest.class
 setupClasses/DriverManager$1.class
-setupClasses/BaseTest.class
 setupClasses/Browsers.class
 setupClasses/DriverManager.class
+tests/FlowTest.class
